@@ -1,3 +1,6 @@
+### Introduction
+When I applied for the board, I was hoping to create a simple activity tracker that could alert user when they are in idle state for a long time. While the initial out of box set up and testing are done quite nicely due to the proper documentation, it is really struggling to put up the kit in practical usage. In the following review, we will see the demos already created for the board. <br>
+
 ### Foreword
 The review was supposed to be submitted by January of 2024. Due to some issue with the [kit](https://community.element14.com/products/devtools/avnetboardscommunity/avnetboard-forums/f/rasynboard/54224/rasynboard-stopped-working), I had to wait for the replacement kit to arrive. Later I switched my job which required relocation, losing track of where the kit was and finally I found the time to complete it. **I would like to apologize to the community for the delayed submission of the review**.<br> 
 
